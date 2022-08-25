@@ -26,6 +26,7 @@ spamwatch
 alphabet_detector
 cachetools
 fontTools
+git+https://github.com/trentm/python-markdown2.git
 gtts
 tswift
 pytz
