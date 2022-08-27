@@ -2,7 +2,7 @@ future
 faker
 motor
 PyDictionary==2.0.1
-emoji
+emoji==1.7.0
 lxml
 beautifulsoup4
 requests
