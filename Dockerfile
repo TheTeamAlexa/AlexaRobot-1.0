@@ -23,7 +23,6 @@ RUN apt update && apt upgrade -y && \
     linux-headers-amd64 \
     musl-dev \
     musl \
-    neofetch \
     php-pgsql \
     python3-lxml \
     postgresql \
